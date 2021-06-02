@@ -1,2 +1,4 @@
-number = int(input())
-return number ** 2
+def f(n):
+  return n ** 2
+
+print(f(2))

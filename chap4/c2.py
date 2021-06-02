@@ -1,5 +1,5 @@
-def f(x):
-    return x
-f(Hello)
-result = f("Hello")
-print(result)
+def f(s):
+  print(s)
+
+f('hello')
+
